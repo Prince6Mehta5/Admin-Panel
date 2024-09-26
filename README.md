@@ -17,7 +17,7 @@ Steps:
          npm install
 5. Final Step, Run the command: npm start
 6. & in another terminal run the command: json-server --watch db.json --port 3000
-7. You will see a link like this "127.0.0.1:8000" (demo link)
+7. You will see a link like this "http://localhost/127.0.0.1:8000" (demo link)
 8. Click on that & you'll have a running webpage of this project.
 
 

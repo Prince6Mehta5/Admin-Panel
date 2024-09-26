@@ -20,21 +20,5 @@ Steps:
 7. You will see a link like this "127.0.0.1:8000" (demo link)
 8. Click on that & you'll have a running webpage of this project.
 
-_**File Structure**_
-Admin Panel/
-├── public/
-│   ├── index.html
-├── src/
-│   ├── components/
-│   │   ├── AddUser.js
-│   │   ├── EditUser.js
-│   │   ├── UserDetail.js
-│   │   └── UserList.js
-│   ├── App.js
-│   ├── index.js
-│   ├── App.css
-├── db.json
-├── package.json
-
 
 **Thankyou for your visit, I hope I helped**
